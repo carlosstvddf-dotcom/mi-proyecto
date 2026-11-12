@@ -1,2 +1,3 @@
 # Mi proyecto
-pagina web del poderosisimo monta puercas
+HOBBIES: VIDEOJUEGOS Y PELICULAS
+Comida favortia: pizza
