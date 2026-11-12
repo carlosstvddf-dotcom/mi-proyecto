@@ -1,2 +1,6 @@
 # Mi proyecto
-pagina web del poderosisimo monta puercasComida favorita: encebollado
+
+Comida favorita: encebollado
+HOBBIES: VIDEOJUEGOS Y PELICULAS
+Comida favortia:encebollado y pizza
+
