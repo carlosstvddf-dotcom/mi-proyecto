@@ -3,5 +3,4 @@
 Comida favorita: encebollado
 HOBBIES: VIDEOJUEGOS Y PELICULAS
 Comida favortia:encebollado y pizza
-las carreras medicas valen harta
-todo vale vrga
+las carreras medicas
